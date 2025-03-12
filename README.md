@@ -24,5 +24,5 @@ Here the Deployed Working models Link :  https://huggingface.co/spaces/anoopgupt
 
 # Here you can  download  of data dataset 
 
-I'am upload in the repo because large size 
+I'am not  upload inside the repo because it's  large size 
 link:  https://drive.google.com/file/d/14uAupUuEnUkn4zd-alNxS9wnOjycRMRm/view?usp=sharing
