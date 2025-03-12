@@ -18,4 +18,11 @@ After entering the texts, click "Check Plagiarism", and the app will tell you wh
 
 
 Here the Deployed Working models Link :  https://huggingface.co/spaces/anoopgupta3819/plagiarism_ai       
-#Please Click This link and check.          
+#Please Click This link and check.     
+
+# Imp Notes:
+
+# Here you can  download  of data dataset 
+
+I'am upload in the repo because large size 
+link:  https://drive.google.com/file/d/14uAupUuEnUkn4zd-alNxS9wnOjycRMRm/view?usp=sharing
